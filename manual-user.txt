@@ -1,5 +1,9 @@
 USER MANUAL
 
 1. About sign up
+2. Use phone number to log in
+3. Password consists of 8 digits and special characters
+4. You can login by google account
+5. You can login by facebook account
 
 
